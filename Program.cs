@@ -1,4 +1,6 @@
 ﻿using newProgramNameSpace;
+using Consoles;
+using inputOutputNamespace;
 
 namespace HelloWorld
 {
@@ -6,27 +8,13 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            // string name = "shivam";
-            // int number;
-            // number = 1234;
-            // number = 2345;
-            // double doubleType = 12.34;
-            // bool boleanType = false;
-            // char character = 'D';
-            // Console.WriteLine(name);
-            // Console.WriteLine(number);
-            // Console.WriteLine(doubleType);
-            // Console.WriteLine(boleanType);
-            // Console.WriteLine(character);
 
-            // int bignumber = 2147483647;
-            // Console.WriteLine(bignumber);
-
+            ConsoleExample console = new ConsoleExample();
+            inputOutput inputOutputObject = new inputOutput();
+            // console.allConsoles();
+            // inputOutputObject.runInputOutput();
             // -------------
-            // Console.WriteLine("Enter your name");
-            // string userName = Console.ReadLine();
-            // Console.WriteLine("Username is: " + userName);
-
+           
             // -------------type int while taking input
             // Console.WriteLine("Enter your age:");
             // int age = Convert.ToInt32(Console.ReadLine());
@@ -108,12 +96,3 @@ namespace HelloWorld
         }
     }
 }
-
-    // class newProgram
-    // {
-    //     public void newProgramMethod(string fname)
-    //     {
-    //         Console.WriteLine(fname + " Refsnes");
-    //     }
-
-    // }
