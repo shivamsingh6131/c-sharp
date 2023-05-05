@@ -1,0 +1,15 @@
+/home/shivamsingh/Desktop/c# practise/bin/Debug/net6.0/c# practise
+/home/shivamsingh/Desktop/c# practise/bin/Debug/net6.0/c# practise.deps.json
+/home/shivamsingh/Desktop/c# practise/bin/Debug/net6.0/c# practise.runtimeconfig.json
+/home/shivamsingh/Desktop/c# practise/bin/Debug/net6.0/c# practise.dll
+/home/shivamsingh/Desktop/c# practise/bin/Debug/net6.0/ref/c# practise.dll
+/home/shivamsingh/Desktop/c# practise/bin/Debug/net6.0/c# practise.pdb
+/home/shivamsingh/Desktop/c# practise/obj/Debug/net6.0/c# practise.csproj.AssemblyReference.cache
+/home/shivamsingh/Desktop/c# practise/obj/Debug/net6.0/c# practise.GeneratedMSBuildEditorConfig.editorconfig
+/home/shivamsingh/Desktop/c# practise/obj/Debug/net6.0/c# practise.AssemblyInfoInputs.cache
+/home/shivamsingh/Desktop/c# practise/obj/Debug/net6.0/c# practise.AssemblyInfo.cs
+/home/shivamsingh/Desktop/c# practise/obj/Debug/net6.0/c# practise.csproj.CoreCompileInputs.cache
+/home/shivamsingh/Desktop/c# practise/obj/Debug/net6.0/c# practise.dll
+/home/shivamsingh/Desktop/c# practise/obj/Debug/net6.0/ref/c# practise.dll
+/home/shivamsingh/Desktop/c# practise/obj/Debug/net6.0/c# practise.pdb
+/home/shivamsingh/Desktop/c# practise/obj/Debug/net6.0/c# practise.genruntimeconfig.cache
