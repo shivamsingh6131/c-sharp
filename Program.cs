@@ -1,4 +1,6 @@
-﻿namespace HelloWorld
+﻿using newProgramNameSpace;
+
+namespace HelloWorld
 {
     class Program
     {
@@ -89,6 +91,8 @@
             MyMethod();
             MyMethod("this is string");
             MyMethod(1234);
+            newProgramClass n = new newProgramClass();
+            n.newProgramMethod("test name");
         }
         static void MyMethod()
         {
@@ -104,3 +108,12 @@
         }
     }
 }
+
+    // class newProgram
+    // {
+    //     public void newProgramMethod(string fname)
+    //     {
+    //         Console.WriteLine(fname + " Refsnes");
+    //     }
+
+    // }
